@@ -1,0 +1,7 @@
+Caso # 0: 6 .
+Caso # 1: linea una es esta .
+Caso # 2: yeah fuck .
+Caso # 3: ipc1 de tarea .
+Caso # 4: inter1 salio no .
+Caso # 5: horario .
+Caso # 6: linea ultima la es esta .
